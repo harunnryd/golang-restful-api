@@ -25,8 +25,4 @@ Halo nama saya harun nur rasyid, saya seorang **Back End Programmer** di salah s
 [![Facebook](https://img.shields.io/badge/harun__dillah-facebook-red.svg)](https://facebook.com/harun_dillah)
 
 [![Twitter](https://img.shields.io/badge/harunnryd-twitter-blue.svg)](https://twitter.com/harunnryd)
-<<<<<<< HEAD
 [![Linkedin](https://img.shields.io/badge/harunnryd-linkedin-ff69b4.svg)](www.linkedin.com/in/harun-nur-rasyid-987683150)
-=======
-[![Linkedin](https://img.shields.io/badge/harunnryd-linkedin-ff69b4.svg)](www.linkedin.com/in/harun-nur-rasyid-987683150)
->>>>>>> a373438915b6f629eff3170f5d07f400b1e44d17
