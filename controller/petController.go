@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"fmt"
 	"time"
-	"restful-api/models"
+	"golang-restful-api/models"
 	"github.com/jinzhu/gorm"
 	"github.com/gin-gonic/gin"
 	"github.com/olahol/go-imageupload"
